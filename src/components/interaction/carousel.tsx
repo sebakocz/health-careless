@@ -27,7 +27,7 @@ export default function Carousel(){
             <div className={items[2]+carouselItemClass}>
                 <h3>Stay at home</h3>
                 <div className="w-full border-t border-gray-300"></div>
-                <p>Mum's pancakes are delicious after all</p>
+                <p>{"Mum's pancakes are delicious after all"}</p>
             </div>
         </div>
     )
