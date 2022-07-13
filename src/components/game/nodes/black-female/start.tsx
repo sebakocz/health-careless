@@ -41,7 +41,7 @@ export default function Start({nextStep}: any) {
                         You were diagnosed with sickle cell disease at age 1.
                     </p>
                     <p>
-                        You're trying to decide if you should go to college. You've always been told that getting an education is important, but you're unsure if you'll be able to pay back your student loans after only an undergraduate degree. Plus, none of your friends are attending university and you don't want to be the only one.
+                        {"You're trying to decide if you should go to college. You've always been told that getting an education is important, but you're unsure if you'll be able to pay back your student loans after only an undergraduate degree. Plus, none of your friends are attending university and you don't want to be the only one."}
                     </p>
 
                     <div className={"flex justify-center"}>
@@ -53,7 +53,7 @@ export default function Start({nextStep}: any) {
                     </div>
 
                     <p>
-                        You wonder if it would be better to get a job immediately out of high school. You know that your parents struggle financially and you think that maybe you'd be able to help them and yourself if you were employed.
+                        {"You wonder if it would be better to get a job immediately out of high school. You know that your parents struggle financially and you think that maybe you'd be able to help them and yourself if you were employed."}
                     </p>
                     <p>
                         You decide to:
